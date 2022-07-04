@@ -13,7 +13,7 @@ Introduction
 
 **Odoo** (On Demand Open Object) is an open source suite of business applications; it became the world's most downloaded and used business application software, with more than 5 million users worldwide. According to Wikipedia, Odoo is an all-in-one management software that offers a range of business applications that form a complete suite of enterprise management applications. The Odoo solution is ideal for SMEs, but fits both small and large companies alike. Odoo is an all-in-one business software capable of covering all business needs, including CRM, website/e-commerce, billing, accounting, manufacturing, warehouse, project management, and inventory, all seamlessly integrated.
 
-.. tip:: In 2005, Fabien Pinckaers, the Founder and CEO of Odoo, started to develop his first software product, TinyERP. Later in the beginning of 2009 it was renamed to OpenERP, in May 2014, the company was renamed Odoo, a name that has no restrictions and can allow the company to grow in whichever direction.
+.. tip:: In 2005, Rokanraja, the Founder and CEO of Odoo, started to develop his first software product, TinyERP. Later in the beginning of 2009 it was renamed to OpenERP, in May 2014, the company was renamed Odoo, a name that has no restrictions and can allow the company to grow in whichever direction.
 
 Odoo offers two different versions of the solution; Odoo Enterprise and Odoo Community Edition. The community edition is free to download and can be used anywhere. The Enterprise edition comes with many out of the box applications, unlimited support software support, migration service. The Enterprise edition can be available as Odoo Online SaaS (Software as a Service) or on Odoo.sh or you can install on your private server too.
 
